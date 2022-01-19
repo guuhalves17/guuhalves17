@@ -1,7 +1,6 @@
 ### Olá! Eu sou Gustavo de Azevedo 👋
  
 - 👨‍💻 Hoje trabalho como Analista de Gestão de Acessos
-- 👀 I’m interested in ...
 - 🌱 Estudando Java, Python e Cloud Computing
 - 📫 Conta-me no email: gudeazevedo@outlook.com
 
