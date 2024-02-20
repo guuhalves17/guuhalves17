@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gustavo de Azevedo 👋
  
-- 👨‍💻 Hoje trabalho como Analista de Gestão de Acessos
-- 🌱  Java e Cloud Computing (AWS e GCP)
+- 👨‍💻 Hoje trabalho com IAM - CyberSecurity
+- 🌱 Estudando: Java, CyberSecurity e Cloud Computing (AWS e GCP)
 - 📫 Conta-me no email: azevedo.a.gustavo@gmail.com
 
   ##
